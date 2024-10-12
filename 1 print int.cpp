@@ -1,4 +1,4 @@
-
+// this program prints int value
 #include <stdio.h>
 int main () {
 
